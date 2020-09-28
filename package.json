@@ -1,0 +1,22 @@
+{
+  "name": "Google Maps with Node",
+  "version": "1.0.0",
+  "description": "google-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bshin95/google-places-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bshin95/google-places-node/issues"
+  },
+  "homepage": "https://github.com/bshin95/google-places-node#readme",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.1.9"
+  }
+}
